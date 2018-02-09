@@ -1,0 +1,42 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Toggle serve",
+				"command": "ionic:serve"
+			},
+			{
+				"label": "Toggle run",
+				"command": "ionic:run"
+			},
+			{
+				"label": "Toggle build",
+				"command": "ionic:build"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "ionic",
+					"submenu": [
+						{
+							"label": "serve",
+							"command": "ionic:serve"
+						},
+						{
+							"label": "run",
+							"command": "ionic:run"
+						},
+						{
+							"label": "build",
+							"command": "ionic:build"
+						}
+					]
+				}
+			]
+		}
+	]
+}
