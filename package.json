@@ -1,18 +1,20 @@
 {
   "name": "ionic",
   "main": "./lib/ionic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple package to run the ionic actions to test",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": ["ionic:serve" ,"ionic:run","ionic:build"]
+    "atom-workspace": [
+      "ionic:serve",
+      "ionic:run",
+      "ionic:build"
+    ]
   },
   "repository": "https://github.com/CoderSquirrel/atom-ionic-run",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
