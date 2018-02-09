@@ -1,8 +1,8 @@
 {
   "name": "ionic",
   "main": "./lib/ionic",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "A simple package to run the ionic actions to test",
   "keywords": [
   ],
   "activationCommands": {
