@@ -12,6 +12,10 @@
 			{
 				"label": "Toggle build",
 				"command": "ionic:build"
+			},
+			{
+				"label": "Toggle build ios",
+				"command": "ionic:buildios"
 			}
 		]
 	},
@@ -33,6 +37,10 @@
 						{
 							"label": "build",
 							"command": "ionic:build"
+						},
+						{
+							"label": "build ios",
+							"command": "ionic:buildios"
 						}
 					]
 				}
