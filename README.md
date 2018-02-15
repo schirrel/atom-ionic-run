@@ -6,4 +6,7 @@ simple package to run:
 * ionic cordova run android --device
 * ionic cordova run android --release
 
+#### 1.2.0
+* ionic cordova build ios --prod
+
 from the atom
